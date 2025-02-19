@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to My Data Analytics Portfolio</h1>
+        <h1>Welcome to My Data Analytics Profile</h1>
         <p>Hello! I'm a data analyst passionate about extracting insights from data and making data-driven decisions.</p>
         <p>Here, you will find my projects, case studies, and visualizations related to data analytics.</p>
         <p>Check out my work on <a href="https://github.com/rohann-hub" target="_blank">GitHub</a>.</p>
