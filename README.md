@@ -12,7 +12,7 @@
         <p>Here, you will find my projects, case studies, and visualizations related to data analytics.</p>
         <p>Check out my work on <a href="https://github.com/rohann-hub" target="_blank">GitHub</a>.</p>
         <div class="animation">
-            <img src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif" alt="Data Quipo Animation">
+            <img src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
         </div>
     </div>
 </body>
